@@ -1,0 +1,4 @@
+package com.librarymanagement.config;
+
+public class ApplicationConfig {
+}
